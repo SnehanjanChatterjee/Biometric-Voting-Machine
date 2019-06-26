@@ -29,28 +29,28 @@ METHODOLOGY :
 
 ### HARDWARE USED :
 
-•	ARDUINO UNO MICROCONTROLLER
-•	I2C
-•	16X2 LCD DISPLAY
-•	4X4 MATRIX KEYPAD
-•	SERVO MOTOR
-•	FINGERPRINT SCANNER
-•	BREADBOARD
-•	JUMPER WIRES
-•	RESISTORS
-•	MOMENTARY PUSH BUTTON
-•	POWER SOURCE(ADAPTOR)
+1. ARDUINO UNO MICROCONTROLLER
+2. I2C
+3. 16X2 LCD DISPLAY
+4. 4X4 MATRIX KEYPAD
+5. SERVO MOTOR
+6. FINGERPRINT SCANNER
+7. BREADBOARD
+8. JUMPER WIRES
+9. RESISTORS
+10. MOMENTARY PUSH BUTTON
+11. POWER SOURCE(ADAPTOR)
 
 ### SOFTWARE USED :
 
-•	ARDUINO COMPILER
-•	FRITZING
-•	LUCIDCHART
-•	DRAW.IO
-•	MS WORD
+1. ARDUINO COMPILER
+2. FRITZING
+3. LUCIDCHART
+4. DRAW.IO
+5. MS WORD
  
 ## SHOW STOPPERS
 
-1.In practical applications Aadhaar information has to be fetched. This may lead to misplacement of confidential governmental information.
-2.Improper handling of information may cause abrupt changes in the total vote count.
-3.Chapter VI of the Aadhaar bill addresses the issue of privacy. It has the clauses that protect the biometric and personal data with the CIDR. However when public and private agencies collect and transmit personal information, including biometrics, it would always be possible for them to also retain a copy. Experience shows that such personal data quickly turn into a commodity, freely available for purchase.
+1. In practical applications Aadhaar information has to be fetched. This may lead to misplacement of confidential governmental information.
+2. Improper handling of information may cause abrupt changes in the total vote count.
+3. Chapter VI of the Aadhaar bill addresses the issue of privacy. It has the clauses that protect the biometric and personal data with the CIDR. However when public and private agencies collect and transmit personal information, including biometrics, it would always be possible for them to also retain a copy. Experience shows that such personal data quickly turn into a commodity, freely available for purchase.
