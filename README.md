@@ -1,5 +1,9 @@
 # Biometric-Voting-Machine
 
+<p align="center">
+      <img height="400" width="500" src="https://github.com/SnehanjanChatterjee/Biometric-Voting-Machine/blob/master/IMG_20180424_094026.jpg?raw=true" alt="Model"/>
+</p>
+
 Electronic Voting Machines (EVM) are being used  in Indian General and State Elections to implement electronic voting in part from 1989 elections and recently in 2017 state elections held in five states across India. EVMs have replaced paper ballots in local state and general (parliamentary) elections in India.
       Voting Machine consists of two units – a Control unit and a Balloting unit. The control unit is with the presiding officer or a polling officer and the balloting Unit is placed inside the voting compartment. The balloting unit presents the voter with blue buttons (momentary switch) horizontally labelled with corresponding party symbol and candidate names. The Control Unit on the other hand provides the officer in-charge with a "Ballot" marked button to proceed to the next voter, instead of issuing a ballot paper to them.But in our case,the machine serves the purpose of both Control Unit and a Balloting Unit. Presiding Officer would not have any control over the machine.
 
