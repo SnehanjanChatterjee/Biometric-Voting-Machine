@@ -21,9 +21,13 @@ METHODOLOGY :
 6. IF THE FINGERPRINT DOES NOT MATCH WITH THE CORRESPONDING ADHAAR NUMBER , THEN ALSO A REPORT WILL BE SENT TO THE PRESIDING OFFICER.
 
 ## BLOCK DIAGRAM
-![alt text](https://github.com/SnehanjanChatterjee/Biometric-Voting-Machine/blob/master/Block%20Diagram.png)
+<p align="center">
+  <img src="https://github.com/SnehanjanChatterjee/Biometric-Voting-Machine/blob/master/Block%20Diagram.png?raw=true" alt="Block Diagram"/>
+</p>
 ## CIRCUIT DIAGRAM
-![alt text](https://github.com/SnehanjanChatterjee/Biometric-Voting-Machine/blob/master/Circuit%20Diagram.png)
+<p align="center">
+  <img src="https://github.com/SnehanjanChatterjee/Biometric-Voting-Machine/blob/master/Circuit%20Diagram.png?raw=true" alt="Circuit Diagram"/>
+</p>
 
 ## TECHNOLOGY STACK
 
