@@ -24,6 +24,7 @@ METHODOLOGY :
 <p align="center">
   <img src="https://github.com/SnehanjanChatterjee/Biometric-Voting-Machine/blob/master/Block%20Diagram.png?raw=true" alt="Block Diagram"/>
 </p>
+
 ## CIRCUIT DIAGRAM
 <p align="center">
   <img src="https://github.com/SnehanjanChatterjee/Biometric-Voting-Machine/blob/master/Circuit%20Diagram.png?raw=true" alt="Circuit Diagram"/>
