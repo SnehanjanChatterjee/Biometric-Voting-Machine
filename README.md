@@ -1,5 +1,9 @@
 # Biometric-Voting-Machine
 
+## Demo
+
+https://github.com/SnehanjanChatterjee/Biometric-Voting-Machine/assets/41839617/32bc210b-4915-464b-9871-faf6bc616799
+
 <p align="center">
       <img height="400" width="500" src="https://github.com/SnehanjanChatterjee/Biometric-Voting-Machine/blob/master/IMG_20180424_094026.jpg?raw=true" alt="Model"/>
 </p>
